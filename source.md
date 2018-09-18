@@ -78,7 +78,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Sergi & Replace](https://sergiandreplace.com/) - Basic to advanced articles and tutorials [Sergi Martínez](https://github.com/sergiandreplace)
 - [Flutter by Example](https://flutterbyexample.com/) - Tutorials based on Redux, Firebase, Custom Animations, and UI
 - [Flutter Institute](https://flutter.institute/) - Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst)
-- [Flutter Rocks](https://flutter.rocks/) - Blog about the joys of Flutter by [Iiro Krankka](https://twitter.com/koorankka).
+- [Iirokrankka.com](https://iirokrankka.com/) - Articles and tutorials about Flutter, Dart and anything related by [Iiro Krankka](https://twitter.com/koorankka).
 - [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515)
 - [Welcome to Flutter](https://didierboelens.com) - English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens
 
@@ -120,12 +120,16 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) <!--stargazers:slightfoot/flutter_sticky_headers--> - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
 - [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) <!--stargazers:GeekyAnts/flutter-login-home-animation--> - Smooth animation from login to home by [Ruchika Gupta](https://github.com/geekruchika)
 - [List Drag&Drop](https://github.com/Norbert515/flutter_list_drag_and_drop) <!--stargazers:Norbert515/flutter_list_drag_and_drop--> - Reorder list elements using Drag & Drop by [Norbert515](https://github.com/Norbert515)
-- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 - [Side Header List](https://github.com/renefloor/side_header_list_view) <!--stargazers:renefloor/side_header_list_view--> - Listview with sticky headers by [Rene Floor](https://github.com/renefloor)
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
+
+#### Calendar
+
+- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
+- [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel --> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 
 #### Material Design
 
@@ -152,7 +156,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Map](https://github.com/apptreesoftware/flutter_map) <!--stargazers:apptreesoftware/flutter_map--> - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware)
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) <!--stargazers:mapbox/flutter-mapbox-gl--> - Interactive, customizable vector maps by Mapbox
 
-#### Charts
+### Charts
 
 - [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) <!--stargazers:xqwzts/flutter_circular_chart--> - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
 - [Charts](https://github.com/mzimmerm/flutter_charts) <!--stargazers:mzimmerm/flutter_charts--> - LineChart and VerticalBarChart Library by [Milan Zimmermann](https://github.com/mzimmerm)
@@ -165,7 +169,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Navigation
 
 - [Fluro](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
-- [Circle Indicator](https://github.com/long1eu/circle_indicator) <!--stargazers:long1eu/circle_indicator--> - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu)
+- [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
 - [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Interact with the application's home screen quick actions
 - [Swiper](https://github.com/jzoom/flutter_swiper) <!--stargazers:long1eu/circle_indicator--> - Horizontal, Vertical, Partial swipe with indicator by [Xueliang Ren](https://github.com/jzoom)
 
@@ -254,6 +258,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) <!--stargazers:geekruchika/FlutterCardSwipe--> - Swipe cards template by [Ruchika Gupta](https://github.com/geekruchika)
 - [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
 - [Book](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
+- [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 
 ## Plugins
 
@@ -274,6 +279,8 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Android Job Scheduler](https://github.com/talkdirty/android_job_scheduler) ![android](https://user-images.githubusercontent.com/1295961/41648590-9ed8c5cc-7479-11e8-8248-3820589d8ab9.png) <!--stargazers:talkdirty/android_job_scheduler--> - Directly manage android system schedules by [Georg Grab](https://github.com/talkdirty)
 - [Badger](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 - [UDID](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> -  Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
+- [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
+- [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) <!--stargazers:pichillilorenzo/flutter_inappbrowser--> - Open an in-app browser window (porting of cordova inappbrowser) by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### Services
 
@@ -284,7 +291,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Scanner
 
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
-- [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) <!--stargazers:acaliaro/flutterZebraEmdk--> - Use Zebra EMDK to access Barcode Scanner API
+- [Fast QR Reader View](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
 
 ### Bluetooth / NFC / Beacon
 
@@ -311,7 +318,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [SpinKit](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 - [Villains](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
-### Game
+### Game Engine
 
 - [Flame](https://github.com/luanpotter/flame) <!--stargazers:luanpotter/flame--> - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) <!--stargazers:spritewidget/spritewidget--> - Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt)
@@ -337,10 +344,13 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Cinematic](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
 - [Trace](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
+- [Taskist](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
+- [Tourism](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix](https://github.com/bluemix/tourism-demo)
 
 ### Games
 
 - [Flip](https://github.com/RedBrogdon/flutterflip) <!--stargazers:RedBrogdon/flutterflip--> - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon)
+- [2048](https://github.com/anuranBarman/2048) <!--stargazers:anuranBarman/2048--> - 2048 game by [Anuran Barman](https://github.com/anuranBarman)
 
 ## Utilities
 
